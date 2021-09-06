@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 300%;
+}
+div {
+    column-count: 1;
+}
+img {
+    width: 40%;
+    height: auto;
+    border-radius: 2px;
+}
